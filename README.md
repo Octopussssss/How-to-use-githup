@@ -7,5 +7,5 @@
 - 复制ssh链接
 - 在本地 打开git bash
 - 输入 git clone git@github.com:Octopussssss/test.git     (ssh链接)
-- ![avatar](/home/images/gitbranch.png)
+- ![avatar](images/gitbranch.png)
 
